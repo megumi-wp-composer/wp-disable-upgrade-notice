@@ -1,5 +1,5 @@
 {
-    "name": "Megumi/DisableUpgradeNotice",
+    "name": "megumi/disable-apgrade-notice",
     "license": "GPL2",
     "require": {
         "php": ">=5.3"

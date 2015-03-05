@@ -2,7 +2,6 @@
 
 [![Build Status](https://travis-ci.org/megumi-wp-composer/wp-disable-upgrade-notice.svg?branch=master)](https://travis-ci.org/megumi-wp-composer/wp-disable-upgrade-notice) [![Latest Stable Version](https://poser.pugx.org/megumi/wp-disable-upgrade-notice/v/stable.svg)](https://packagist.org/packages/megumi/wp-disable-upgrade-notice) [![Total Downloads](https://poser.pugx.org/megumi/wp-disable-upgrade-notice/downloads.svg)](https://packagist.org/packages/megumi/wp-disable-upgrade-notice) [![Latest Unstable Version](https://poser.pugx.org/megumi/wp-disable-upgrade-notice/v/unstable.svg)](https://packagist.org/packages/megumi/wp-disable-upgrade-notice) [![License](https://poser.pugx.org/megumi/wp-disable-upgrade-notice/license.svg)](https://packagist.org/packages/megumi/wp-disable-upgrade-notice)
 
-
 Composer library for Disabling upgrade notice.
 
 ## How to use

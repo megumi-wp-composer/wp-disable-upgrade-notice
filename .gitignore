@@ -1,1 +1,5 @@
 vendor/*
+bin
+.travis.yml
+phpunit.xml
+tests

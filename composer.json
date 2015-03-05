@@ -1,5 +1,5 @@
 {
-    "name": "megumi/disable-upgrade-notice",
+    "name": "megumi/wp-disable-upgrade-notice",
     "license": "GPL2",
     "require": {
         "php": ">=5.3"

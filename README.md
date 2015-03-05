@@ -53,7 +53,7 @@ $ composer install
 ## How to update libraries
 
 ```
-$ composer install
+$ composer update
 ```
 
 

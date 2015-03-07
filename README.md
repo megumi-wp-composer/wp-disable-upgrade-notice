@@ -17,9 +17,6 @@ Plugin Name: mu-plugin for example.com
 */
 
 require_once dirname( __FILE__ ) . '/vendor/autoload.php';
-
-$disable_upgrade_notice = Megumi\WP\DisableUpgradeNotice();
-$disable_upgrade_notice->register();
 ```
 
 That's it!

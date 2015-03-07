@@ -11,8 +11,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "Megumi": "lib/"
-        }
+        "files": [
+            "lib/Megumi_Disable_Upgrade_Notice.php"
+        ]
     }
 }
